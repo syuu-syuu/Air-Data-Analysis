@@ -48,7 +48,7 @@ This will open a new browser window with the Jupyter Notebook interface. Now you
 
 
 ### Notebooks Overview
-- **exploration_<indicator_name>.ipynb:**Use this notebook to generate the trend of pollution levels for selected indicators and selected countries over time.    
+- __exploration_<indicator_name>.ipynb:__Use this notebook to generate the trend of pollution levels for selected indicators and selected countries over time.    
 - **exploration_single_country.ipynb:** Use this notebook to generate time series plots for all indicators across selected countries.  
 - **exploration_streamline_indicators.ipynb:** Use this notebook to generate time series plots for all indicators across all the countries.  
 - **calculate_pearson_correlation.ipynb:** Use this notebook to plot heatmapw of Pearson correlation coefficients under various perspectives.
