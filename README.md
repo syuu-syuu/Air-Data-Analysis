@@ -4,6 +4,12 @@
 
 This project uses time series data about climate change to better understand how air pollution levels have changed over time. To do so, we mainly used data from the 2022 Environmental Performance Index EPI, which evaluates 180 countries’ performance on 40 climate performance indicators (Wolf et al., 2022a) and queried data from World Economic Outlook Database. The EPI gathers all 40 indicators to calculate performance “scores” for countries, ranking their environmental performance overall and their performance by region (Wolf et al., 2022c). Our specific focus for this project is air pollution. As a result, we chose to study indicators for the following: (1) two trend rates, for CO2 and N2O, (2) three measurements disability-adjusted life-years lost per 100,000 people (DALY rate), for household air pollution, ozone exposure, and particulate matter, and (3) four pollution-level indicators, for NO and N2O, for SO2, volatile organic compound levels, and CO. 
 
+## Data Link
+- WEO Database: https://www.imf.org/en/Publications/WEO/weo-database/2023/April/select-country-group  
+- EPI2022 Raw Data: https://epi.yale.edu/downloads/epi2022rawdata.zip
+- Other Related EPI Data: https://epi.yale.edu/downloads
+
+
 ## Running Instructions
 
 This repository contains a collection of Jupyter notebooks and data files for analyzing pollution trends as well as the relationship between environmental indicators and fundamental economic factors across various countries and time windows. Please follow the instructions below to run the code and reproduce the visualization analysis.
