@@ -61,16 +61,5 @@ This will open a new browser window with the Jupyter Notebook interface. Now you
 All generated plots are saved in the plots folder. Browse the folder to find the visualizations you are interested in.
 
 
-## Reasearch Questions
-- How do trend rates for CO2 and N2O mitigation compare by country? Which countries have the most improvement in their climate change mitigation trends? 
-- Which countries have DALY rates that have changed the most? In what direction? 
-- For selected air pollution indicators, is there a relation between increased air pollution and gross domestic product (GDP)? 
-- What are the possible impacts of COVID-19 policies on global air pollution? 
-- ...
-
-## Conclusion
-
-
-
 
 
