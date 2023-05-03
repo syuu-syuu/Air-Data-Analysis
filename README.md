@@ -60,7 +60,6 @@ This will open a new browser window with the Jupyter Notebook interface. Now you
 - **exploration_single_country.ipynb:** Use this notebook to generate time series plots for all indicators across selected countries.  
 - **exploration_streamline_indicators.ipynb:** Use this notebook to generate time series plots for all indicators across all the countries.  
 - **calculate_pearson_correlation.ipynb:** Use this notebook to plot heatmapw of Pearson correlation coefficients under various perspectives.
--
 
 
 #### * View the Plots  
