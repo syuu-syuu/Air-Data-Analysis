@@ -58,7 +58,7 @@ This will open a new browser window with the Jupyter Notebook interface. Now you
 
 
 #### * View the Plots  
-All generated plots are be saved in the plots folder. Browse the folder to find the visualizations you are interested in.
+All generated plots are saved in the plots folder. Browse the folder to find the visualizations you are interested in.
 
 
 ## Reasearch Questions
