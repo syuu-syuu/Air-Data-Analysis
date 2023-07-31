@@ -9,6 +9,8 @@ This project uses time series data about climate change to better understand how
 - EPI2022 Raw Data: https://epi.yale.edu/downloads/epi2022rawdata.zip
 - Other Related EPI Data: https://epi.yale.edu/downloads
 
+## Report Link
+https://bit.ly/air_pollution_analysis_report
 
 ## Running Instructions
 
